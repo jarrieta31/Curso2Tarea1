@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_bienvenida">28sp</dimen>
+    <dimen name="txt_bienvenida_land">28sp</dimen>
+    <dimen name="txt_bienvenida_xlarge">54sp</dimen>
+    <dimen name="txt_entrar">14sp</dimen>
+    <dimen name="txt_entrar_land">16sp</dimen>
+    <dimen name="txt_entrar_xlarge">25sp</dimen>
+</resources>
